@@ -319,9 +319,7 @@ DevContinuum 响应:
 ## 📞 联系我们
 
 - 🐙 **GitHub**: [@wangzonghui6144](https://github.com/wangzonghui6144)
-- 📧 **Email**: [你的邮箱]
-- 💬 **微信群**: [群二维码]
-
+- 📧 **Email**: [wangzonghui6144@163.com]
 ---
 
 ## 🙏 致谢
